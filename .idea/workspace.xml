@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="96fdb133-408a-4ef6-9847-2b52c351fd15" name="Changes" comment="Created a Hello world program">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="96fdb133-408a-4ef6-9847-2b52c351fd15" name="Changes" comment="reated variables and explored maximum and minimum values">
       <change beforePath="$PROJECT_DIR$/src/Hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Hello.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -70,7 +69,7 @@
       <option name="presentableId" value="Default" />
       <updated>1649900967353</updated>
       <workItem from="1649900969779" duration="50000" />
-      <workItem from="1649901030060" duration="4300000" />
+      <workItem from="1649901030060" duration="4418000" />
     </task>
     <task id="LOCAL-00001" summary="Created a Hello world program">
       <created>1649902420818</created>
@@ -79,7 +78,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649902420818</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="reated variables and explored maximum and minimum values">
+      <created>1649905386451</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1649905386451</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -110,6 +116,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Created a Hello world program" />
-    <option name="LAST_COMMIT_MESSAGE" value="Created a Hello world program" />
+    <MESSAGE value="reated variables and explored maximum and minimum values" />
+    <option name="LAST_COMMIT_MESSAGE" value="reated variables and explored maximum and minimum values" />
   </component>
 </project>
