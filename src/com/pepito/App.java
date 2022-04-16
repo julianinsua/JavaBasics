@@ -1,7 +1,5 @@
 package com.pepito;
 
-import java.util.Set;
-
 public class App {
   public static void main ( String[] args ) {
     System.out.println("EVEN TEST");
