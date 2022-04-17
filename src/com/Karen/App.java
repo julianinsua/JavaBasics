@@ -1,4 +1,4 @@
-package com.pepito;
+package com.Karen;
 
 import java.util.Scanner;
 
