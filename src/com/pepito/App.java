@@ -2,25 +2,14 @@ package com.pepito;
 
 public class App {
   public static void main ( String[] args ) {
-    System.out.println("EVEN TEST");
-    for (int i = 1; i < 25; i++)
-      System.out.println("is " + i + " even? " + (isEven(i) ? "yes" : "no"));
+    String numberAsString = "2018.2";
+    System.out.println("number as string= " + numberAsString);
 
-    System.out.println("PRIME TEST");
-    for (int i = 1; i < 100; i++) {
-      if (isPrime(i)) System.out.println("Prime number: " + i);
-    }
-  }
+    double doubleNumber = Double.parseDouble(numberAsString);
+    int intNumber = ( int ) Double.parseDouble(numberAsString);
 
-  public static boolean isEven ( int number ) {
-    return number % 2 == 0;
-  }
+    System.out.println("number as integer= " + (intNumber + 1));
+    System.out.println("number as integer= " + (doubleNumber + 1));
 
-  public static boolean isPrime ( int number ) {
-    if (number == 1) return true;
-    for (int i = 2; i <= ( int ) Math.sqrt(number); i++) {
-      if (number % i == 0) return false;
-    }
-    return true;
   }
 }
